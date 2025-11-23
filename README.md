@@ -10,7 +10,7 @@
 
 **Serverless AI Voice Assistant | ESP32 Platform | Pure Arduino Development**
 
-English | [简体中文](./README_CN.md)
+English 
 
 </div>
 
