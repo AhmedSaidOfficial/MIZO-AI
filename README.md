@@ -282,7 +282,8 @@ Join our Discord community to share development experiences, ask questions, and 
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20Community-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/RFPwfhTM)
 
-**Discord Server**: https://discord.gg/RFPwfhTM
+**Discord Server**: https://discord.gg/QA9kpnZS
+**Contact**: https://linktr.ee/ahmedsaid8
 
 ---
 
